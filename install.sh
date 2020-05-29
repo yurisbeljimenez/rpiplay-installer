@@ -1,6 +1,4 @@
 cd ~/
-sudo apt update
-sudo apt upgrade -y
 git clone https://github.com/FD-/RPiPlay.git
 cd RPiPlay
 sudo apt-get install cmake -y
